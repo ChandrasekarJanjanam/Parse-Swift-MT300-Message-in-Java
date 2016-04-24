@@ -15,6 +15,5 @@ public class App
      		   "to@gmail.com",
      		   "Mail Subject", 
      		   "Hi \n\n My First Spring Email");
-        
     }
 }
