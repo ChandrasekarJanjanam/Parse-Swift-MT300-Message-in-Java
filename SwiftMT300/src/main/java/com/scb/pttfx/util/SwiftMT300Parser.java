@@ -15,7 +15,7 @@ import com.prowidesoftware.swift.model.SwiftMessage;
 import com.prowidesoftware.swift.model.mt.mt3xx.MT300;
 
 /**
- * The Class FXParser.
+ * The Class SwiftMT300Parser.
  */
 public class SwiftMT300Parser {
 
