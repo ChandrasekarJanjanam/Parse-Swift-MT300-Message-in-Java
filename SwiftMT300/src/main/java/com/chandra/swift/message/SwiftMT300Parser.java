@@ -1,5 +1,5 @@
 
-package com.scb.pttfx.util;
+package com.chandra.swift.message;
 
 import java.math.BigDecimal;
 import java.text.SimpleDateFormat;
